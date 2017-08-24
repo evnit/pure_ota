@@ -1,0 +1,34 @@
+{
+   "filename":"purenexus_hydrogen-7.1.2-20170618-UNOFFICIAL.zip",
+   "build_date":"20170618",
+   "filesize":547356672,
+   "md5":"96e5ca5a30c4883484855d4d4b14eeaa",
+   "developer":"Le Anh Dung (dungphp)",
+   "url":"http://mirror.codebucket.de/purenexus/hydrogen/purenexus_hydrogen-7.1.2-20170618-UNOFFICIAL.zip",
+   "changelog_url":"https://raw.githubusercontent.com/PureNexusProject-Mod/changelog/master/hydrogen.mkdn",
+   "donate_url":"",
+   "website_url":"https://forum.xda-developers.com/mi-max/development/rom-t3650348",
+   "addons":[
+      {
+         "title":"Beans GApps Mini",
+         "summary":"Android 7.1.x - 20170610",
+         "url":"https://www.androidfilehost.com/?fid=673368273298962437"
+      },
+      {
+         "title":"Beans GApps Full",
+         "summary":"Android 7.1.x - 20170610",
+         "url":"https://www.androidfilehost.com/?fid=745425885120739604"
+      },
+      {
+         "title":"Magisk",
+         "summary":"MagiskSu v13.3",
+         "url":"http://tiny.cc/latestmagisk"
+      },
+      {
+         "title":"SuperSU",
+         "summary":"SuperSU v2.79",
+         "url":"https://s3-us-west-2.amazonaws.com/supersu/download/zip/SuperSU-v2.79-201612051815.zip"
+      }
+   ],
+   "android_version":"7.1.2"
+}
