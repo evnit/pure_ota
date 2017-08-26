@@ -1,20 +1,20 @@
 [
  {
-    "name": "Moto G 2014",
-    "brand": "Motorola",
-    "codename": "titan",
-    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=161172",
-    "maintainer_name": "Demetris Ierokipides",
-    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=1149134",
-    "xda_thread": "https://forum.xda-developers.com/moto-g-2014/development/rom-aospextended-rom-v3-3-t3572471"
+    "name": "Mi Max",
+    "brand": "xiaomi",
+    "codename": "hydrogen",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=209820",
+    "maintainer_name": "Le Anh Dung",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?s=e0eca1c50a4d2548895eb4f9d00e1f7c&u=2772810",
+    "xda_thread": "https://forum.xda-developers.com/mi-max/development/rom-t3650348"
   },  
    {
-    "name": "Asus Zenfone 2 Laser/Selfie",
-    "brand": "Asus",
-    "codename": "Z00T",
-    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=209154",
-    "maintainer_name": "Impulse",
-    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=6042178",
-    "xda_thread": "https://forum.xda-developers.com/zenfone-2-laser/development/rom-aospextended-rom-v4-5-t3659324"
+    "name": "Mi Max",
+    "brand": "xiaomi",
+    "codename": "helium",
+    "afh_folder": "https://www.androidfilehost.com/?w=files&flid=209821",
+    "maintainer_name": "Le Anh Dung",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?s=e0eca1c50a4d2548895eb4f9d00e1f7c&u=2772810",
+    "xda_thread": "https://forum.xda-developers.com/mi-max/development/rom-t3650348"
    }
 ]
