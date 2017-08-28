@@ -1,0 +1,92 @@
+<ROM><RomName>AospExtended-ROM</RomName>
+<VersionName>AospExtended-v4.5-20170810-1646-UNOFFICIAL</VersionName>
+<VersionNumber type="integer">20170828</VersionNumber>
+<DirectUrl>http://downloads.aospextended.com/download/SW9JR2pjVm9YblN0MHFKWi9rY2NZS3hlQVdXcHN5QytFZ0hxU0VNQ3dMVT0=/</DirectUrl>
+<HttpUrl>http://downloads.aospextended.com/hydrogen/</HttpUrl>
+<Android>7.1.2</Android>
+<CheckMD5>19bdcb72954c4c7820fb15664b550ac5</CheckMD5>
+<FileSize type="integer">538992265</FileSize>
+<Developer>dungphp</Developer>
+<WebsiteURL>https://forum.xda-developers.com/mi-max/development/rom-t3650348</WebsiteURL>
+<DonateURL>https://www.paypal.com/vn/cgi-bin/webscr?cmd=_flow&SESSION=gqYHIaqrKEZRWhJofuks5e7Ze6q-C3gM8mVNCU3AUsB84skNeI7LRCYd3na&dispatch=5885d80a13c0db1f8e263663d3faee8d795bb2096d7a7643a72ab88842aa1f54&rapidsState=Donation__DonationFlow___StateDonationBilling&rapidsStateSignature=b9abc7f9a11d16dfee0942983cb35fb099f17024</DonateURL>
+<Changelog>
+#  AospExtended 4.5 August Update :
+
+- Merge August security patch
+- Merge latest CAF Tag in respective repos
+- Add support for Snapdragon LLVM toolchain (SDClang)
+- Add support for boost framework
+- Add support for fling velocities
+- Enable/Disable kill button on notification guts
+- Improve SlimRecents
+- Fix string derps
+- Fix In-Call vibrations
+- Animate icon while locking a task
+- Fix Lockscreen shortcut icons disappearing after reboot
+- Make button long press delay configurable in SmartBar
+- Fix layout of system header
+- Fix task lock and free form button placement
+- Fix Dex2oat
+- Fix In-Call timer bug
+- Fix reloading of theme in AEX OTA
+- Fix theme issues in screen pinning mode
+- Disable home button wake on devices with sensitive HW buttons
+- Add Paranoid Android Pie controls
+- Add check for accidental touch
+- Add pocket lock and pocket judge
+- Doze Service: Fallback to tilt sensor as pickup sensor for ambient display
+- Fix many memory leaks 
+- Option to block sensor for certain packages
+- Fix few NPEs
+- Increase sensitive numbers support
+- Update all translations
+- Update AEX Papers
+- Update all pre-built packages
+- Performance enhancements and bug fixes
+
+---
+
+## AospExtended V4.5 is live![8/28/17]
+
+**Download package available on our website. You can check your OTA as well.**
+
+**Flash latest firmware (Legit one), if possible I'll update the links in the OP.
+Don't report bugs unless you have clean flashed ROM and you are on stock kernel.**
+
+**I have updated the SnapdragonCamera. Switched to the CAF SnapdragonCamera by JDC Team. I have made some modifications as well.**
+
+**_Device related changelog_**
+- Built using SDClang
+- Merge latest CAF kernel tag
+- Merge latest security and back port patches from LOS
+- Updated overlays for SnapdragonCamera
+- Remove modem assertion check
+- Decommonize  time service blobs
+- Disbale double tap to wake by default
+- Enable MMS auto cellular data for Polish carriers
+- Add support for unprocessed audio source
+- Enable bootanimation preload and texture cache
+- Fix DexPreOpt
+- Disable touch boost by default
+- Improve DT2W for Atmel pannel
+- Improve check for active Voice session
+- Add and update Qualcomm Boost Framework Overlays and libs in vendor
+- Update the power configs for our CPU
+
+**Thanks to @MOVZX @billchen1977 and Citrus-CAF team**
+
+**I have my exams up till 31st of August so I will be busy for sometime, I hope everyone can co-operate with me.**
+
+---
+
+# Note : 
+
+_Clean flash is always recommended. Bug reports are not appreciated  if not clean flashed.
+Builds will be available soon when maintainers will get free time. So don't ask for ETAs._
+
+---
+
+</Changelog>
+<AddonCount>3</AddonCount>
+<AddonsURL>http://downloads.aospextended.com/aexaddons.xml</AddonsURL>
+</ROM>
