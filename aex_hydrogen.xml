@@ -1,11 +1,11 @@
 <ROM><RomName>AospExtended-ROM</RomName>
-<VersionName>AospExtended-v4.6-hydrogen-20170828-0641-UNOFFICIAL</VersionName>
-<VersionNumber type="integer">20170828</VersionNumber>
-<DirectUrl>https://qc3.androidfilehost.com/dl/TYIdOdXQmveGxSkCQQTpqw/1504135804/961840155545591488/AospExtended-v4.6-hydrogen-20170828-0641-UNOFFICIAL.zip</DirectUrl>
+<VersionName>AospExtended-v4.6-hydrogen-20170905-0312-UNOFFICIAL</VersionName>
+<VersionNumber type="integer">20170905</VersionNumber>
+<DirectUrl>https://de1.androidfilehost.com/dl/-2mz_Y2nSfN5jkMIF1d8BQ/1504827316/889764386195927425/AospExtended-v4.6-hydrogen-20170905-0312-UNOFFICIAL.zip</DirectUrl>
 <HttpUrl>https://www.androidfilehost.com/?w=files&flid=209820</HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>334d25c6e6cf5c695a01b02a9c4cf52e</CheckMD5>
-<FileSize type="integer">561974428</FileSize>
+<CheckMD5>e6606e2112c81d418abaf2633da85ed5</CheckMD5>
+<FileSize type="integer">557134344</FileSize>
 <Developer>dungphp</Developer>
 <WebsiteURL>https://forum.xda-developers.com/mi-max/development/rom-t3650348</WebsiteURL>
 <DonateURL>https://www.paypal.com/vn/cgi-bin/webscr?cmd=_flow&SESSION=gqYHIaqrKEZRWhJofuks5e7Ze6q-C3gM8mVNCU3AUsB84skNeI7LRCYd3na&dispatch=5885d80a13c0db1f8e263663d3faee8d795bb2096d7a7643a72ab88842aa1f54&rapidsState=Donation__DonationFlow___StateDonationBilling&rapidsStateSignature=b9abc7f9a11d16dfee0942983cb35fb099f17024</DonateURL>
